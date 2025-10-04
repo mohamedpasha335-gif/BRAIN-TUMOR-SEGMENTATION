@@ -20,6 +20,3 @@ Quick start:
     python train_segmentation.py --images path/to/images --masks path/to/masks --epochs 10
 3. Run Streamlit inference:
     streamlit run streamlit_app.py
-
-
-https://drive.google.com/file/d/1Kf1w63FbYfIR7adoVMszII_kS66Rxo6b/view?usp=drive_link (LINK SEGMENTATION PRO)
